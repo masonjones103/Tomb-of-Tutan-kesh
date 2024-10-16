@@ -5,4 +5,4 @@ If you wish to play what I have so far, go ahead; type the letter in the bracket
 
 The game's paths are not completed yet.
 
-## Thank you for playing!
+### Thank you for playing!
