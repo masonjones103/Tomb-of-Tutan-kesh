@@ -1,3 +1,5 @@
+#Hello, just testing github commits
+
 #intro to game
 name=input("Welcome to The Tomb of Tutan'kesh brave adventurer What is your name?\n")
 print("With the help of an ancient map, you have found your way into the lost buriel chamber of Tutan'kesh deep within his tomb. You packed away a good amount of the priceless treasures you found in the burial chamber, but when you opened the sarcophagus of the pharaoh you must have triggered a trap! The way back has collapsed and the only way out you can see is through a narrow passageway ahead! The ceiling is trembling and large rocks are falling all around you!\n")
